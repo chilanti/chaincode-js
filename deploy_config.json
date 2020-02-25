@@ -1,11 +1,11 @@
 {
-  "Org1MSP": {
+  "org2msp": {
     "chaincode": [
       {
-        "name": "mycontract",
+        "name": "mccontract",
         "path": "chaincode/asset",
         "channels": [
-          "mychannel"
+          "channel1"
         ],
         "instantiate": true,
         "install": true
